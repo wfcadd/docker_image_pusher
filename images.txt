@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 frooodle/s-pdf:latest
---platform=linux/amd64 paddlepaddle/paddlehub:latest
+--platform=linux/ard64 centos:centos7.9.2009
