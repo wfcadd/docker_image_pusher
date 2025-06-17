@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 frooodle/s-pdf:latest
---platform=linux/arm64 coredns/coredns:1.8.6
+--platform=linux/arm64 anjia0532/google-containers.coredns:v1.8.6
